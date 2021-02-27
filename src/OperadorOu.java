@@ -20,7 +20,6 @@ public class OperadorOu {
 			valorFinal = totalCompra;
 		}
 		
-		
 		System.out.println("O valor final é de R$" + valorFinal);
 
 	}
